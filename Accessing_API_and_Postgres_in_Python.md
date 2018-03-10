@@ -1,7 +1,7 @@
 
 # Data Analysis Jupyter Notebook Templates - ODOT Crash Data
-* [Locally Running Postgres Server](#Local-Postgres-Sever)
-* [Locally Running API](#Local-API)
+* [Locally Running Postgres Server](#local-postgres-sever)
+* [Locally Running API](#local-api)
 
 ## Local Postgres Server
 
