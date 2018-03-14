@@ -6,7 +6,7 @@
 ## Local Postgres Server
 
 To access the ODOT crash data through a local copy of the Postgres database.
-* Make sure you have the Docker container set up and running (instructions [here](https://github.com/hackoregon/transportation-system-backend)).
+* Make sure you have the Docker container set up and running (instructions [here](https://github.com/hackoregon/transportation-system-backend#getting-started)).
 
 * Import the `psycopg2` Postgres adaptor for python (can be installed with `pip` or `conda`).
 
