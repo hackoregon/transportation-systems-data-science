@@ -1,2 +1,3 @@
-# transportation-systems-data-science
-Data Science repository for Hack Oregon Transportation Systems Theme
+# Tranportation Systems Data Science
+
+Data Science Repository for the Hack Oregon Transportation Systems Team
